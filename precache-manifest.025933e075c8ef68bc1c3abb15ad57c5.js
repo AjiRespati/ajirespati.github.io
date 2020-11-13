@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d13a57935cd59b6f9d738a2d684bbc0",
+    "revision": "f3d8197e6e6549199c8937a8da71fb12",
     "url": "/index.html"
   },
   {
-    "revision": "192cad7050bd0a608b80",
+    "revision": "d73c2c5ce80466297c62",
     "url": "/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "210dd03876b9f3b5ab8d",
-    "url": "/static/js/2.0f438c04.chunk.js"
+    "revision": "96daa15e684828b638d6",
+    "url": "/static/js/2.b03897f7.chunk.js"
   },
   {
     "revision": "8dd0291243a1f2a62a440a0843b67537",
-    "url": "/static/js/2.0f438c04.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b03897f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "192cad7050bd0a608b80",
-    "url": "/static/js/main.7e006b75.chunk.js"
+    "revision": "d73c2c5ce80466297c62",
+    "url": "/static/js/main.f5db02a8.chunk.js"
   },
   {
     "revision": "deaf17d855cbdaf7344d",
@@ -52,6 +52,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bg_body.df8fd3ef.jpg"
   },
   {
+    "revision": "871521978dbf3c8cea6425d9b4d5212c",
+    "url": "/static/media/centauri.87152197.png"
+  },
+  {
+    "revision": "b54dfc50fda8cbcc1c5896f58f413713",
+    "url": "/static/media/centauri_big.b54dfc50.png"
+  },
+  {
     "revision": "56633ed3f62f39d71f571374a6409e65",
     "url": "/static/media/christian.56633ed3.jpg"
   },
@@ -68,6 +76,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cynthia-del-rio.9813593c.jpg"
   },
   {
+    "revision": "afbff0d0a794f02a8e8d0557de4853d7",
+    "url": "/static/media/health.afbff0d0.png"
+  },
+  {
+    "revision": "ebf32dbfeb38bce092c788159c75fc5d",
+    "url": "/static/media/health_big.ebf32dbf.png"
+  },
+  {
     "revision": "b4a43894be17b5660769c800d37d6d09",
     "url": "/static/media/kapbr.b4a43894.png"
   },
@@ -78,6 +94,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e0508cc923eb0b5e68ca6783c53d0f1d",
     "url": "/static/media/kendall.e0508cc9.jpg"
+  },
+  {
+    "revision": "c4663349acdcc78e3ab5a2bedf3c760d",
+    "url": "/static/media/kotaz.c4663349.png"
+  },
+  {
+    "revision": "b41a7a22c5a2e82647b23567ce3482b8",
+    "url": "/static/media/kotaz_big.b41a7a22.png"
   },
   {
     "revision": "df8fd3efcd662b64b44de07f351c838b",
