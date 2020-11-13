@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/static/js/main.50fa72a1.chunk.js",
-    "main.js.map": "/static/js/main.50fa72a1.chunk.js.map",
+    "main.js": "/static/js/main.23a71803.chunk.js",
+    "main.js.map": "/static/js/main.23a71803.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47788c5d.js",
     "runtime-main.js.map": "/static/js/runtime-main.47788c5d.js.map",
-    "static/js/2.cb85555a.chunk.js": "/static/js/2.cb85555a.chunk.js",
-    "static/js/2.cb85555a.chunk.js.map": "/static/js/2.cb85555a.chunk.js.map",
+    "static/js/2.22674d2f.chunk.js": "/static/js/2.22674d2f.chunk.js",
+    "static/js/2.22674d2f.chunk.js.map": "/static/js/2.22674d2f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2be724cdb7749179f2bd7b5644350470.js": "/precache-manifest.2be724cdb7749179f2bd7b5644350470.js",
+    "precache-manifest.0f520b27722872a8e3309f113c36440c.js": "/precache-manifest.0f520b27722872a8e3309f113c36440c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/static/css/main.c5a3ee5c.chunk.css.map",
-    "static/js/2.cb85555a.chunk.js.LICENSE.txt": "/static/js/2.cb85555a.chunk.js.LICENSE.txt",
+    "static/js/2.22674d2f.chunk.js.LICENSE.txt": "/static/js/2.22674d2f.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/static/media/avatar.f1d71f77.jpg",
     "static/media/bg.jpg": "/static/media/bg.e5241971.jpg",
     "static/media/bg2.jpg": "/static/media/bg2.84378183.jpg",
     "static/media/bg3.jpg": "/static/media/bg3.e76de24b.jpg",
-    "static/media/bg4.jpg": "/static/media/bg4.199e9ec1.jpg",
+    "static/media/bg4.jpg": "/static/media/bg4.10d29365.jpg",
     "static/media/bg7.jpg": "/static/media/bg7.b08234a2.jpg",
+    "static/media/bg_body.jpg": "/static/media/bg_body.df8fd3ef.jpg",
     "static/media/christian.jpg": "/static/media/christian.56633ed3.jpg",
     "static/media/clem-onojegaw.jpg": "/static/media/clem-onojegaw.c058841b.jpg",
     "static/media/clem-onojeghuo.jpg": "/static/media/clem-onojeghuo.216ef03c.jpg",
@@ -38,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.47788c5d.js",
-    "static/js/2.cb85555a.chunk.js",
+    "static/js/2.22674d2f.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.50fa72a1.chunk.js"
+    "static/js/main.23a71803.chunk.js"
   ]
 }
