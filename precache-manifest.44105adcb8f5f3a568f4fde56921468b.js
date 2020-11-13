@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "215022220bb8a32cdc07723bfd6a57c6",
+    "revision": "3d13a57935cd59b6f9d738a2d684bbc0",
     "url": "/index.html"
   },
   {
-    "revision": "634a69f88f6b7f12394c",
+    "revision": "192cad7050bd0a608b80",
     "url": "/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "66a710566d98ace874f4",
-    "url": "/static/js/2.c04c4728.chunk.js"
+    "revision": "210dd03876b9f3b5ab8d",
+    "url": "/static/js/2.0f438c04.chunk.js"
   },
   {
     "revision": "8dd0291243a1f2a62a440a0843b67537",
-    "url": "/static/js/2.c04c4728.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0f438c04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "634a69f88f6b7f12394c",
-    "url": "/static/js/main.d70c04ee.chunk.js"
+    "revision": "192cad7050bd0a608b80",
+    "url": "/static/js/main.7e006b75.chunk.js"
   },
   {
     "revision": "deaf17d855cbdaf7344d",
@@ -68,6 +68,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cynthia-del-rio.9813593c.jpg"
   },
   {
+    "revision": "b4a43894be17b5660769c800d37d6d09",
+    "url": "/static/media/kapbr.b4a43894.png"
+  },
+  {
+    "revision": "f8682acd1823ecef1e995fb7e06e11ca",
+    "url": "/static/media/kapbr_big.f8682acd.png"
+  },
+  {
     "revision": "e0508cc923eb0b5e68ca6783c53d0f1d",
     "url": "/static/media/kendall.e0508cc9.jpg"
   },
@@ -96,6 +104,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/profile.090a5aab.jpg"
   },
   {
+    "revision": "235a6e9ee56d6e960f9b3016fc810984",
+    "url": "/static/media/sandton.235a6e9e.png"
+  },
+  {
+    "revision": "5a41d0ec8fbf5ce55751a5395b0ff13f",
+    "url": "/static/media/sandton_big.5a41d0ec.png"
+  },
+  {
     "revision": "cf8b686b294041d0925f4e745b1fabb9",
     "url": "/static/media/sign.cf8b686b.jpg"
   },
@@ -118,5 +134,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef5c30ea69b7ad740ee6221782c73741",
     "url": "/static/media/studio-5.ef5c30ea.jpg"
+  },
+  {
+    "revision": "898caa4a11842fb240ca58951c8174a2",
+    "url": "/static/media/vxn.898caa4a.png"
+  },
+  {
+    "revision": "550fcbe384ce8cea59ed30d902ba4a4f",
+    "url": "/static/media/vxn_big.550fcbe3.png"
   }
 ]);
